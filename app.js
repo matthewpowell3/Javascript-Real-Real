@@ -23,3 +23,5 @@ console.warn('This is a Warning');
 
 // This is will leave a error in the console
 console.error('This is a Error');
+
+// Selecting html elements with getElementById
