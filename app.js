@@ -78,4 +78,4 @@ let toUpperCase = paragraph.toUpperCase();
 let toLowerCase = paragraph.toLowerCase();
 let firstTenChar = paragraph.substr(10);
 
-paragraph.innerText.toUpperCase();
+
